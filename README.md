@@ -1,2 +1,2 @@
-# studenciak
+# Plik
 dasd
